@@ -20,3 +20,4 @@ print(f(a,b))
 
 
 ## Result
+Python program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum was successful.
