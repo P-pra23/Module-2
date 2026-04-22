@@ -43,4 +43,4 @@ for n in range(rows):
 
 
 ## Result
-
+Python program that generates **Pascal's Triangle** using numbers. The number of rows is accepted from the user was successful.
