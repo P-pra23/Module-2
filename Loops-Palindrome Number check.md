@@ -34,6 +34,7 @@ else:
     print(f"The given number {a} is not a palindrome")
 ```
 ## Output
+<img width="1016" height="260" alt="image" src="https://github.com/user-attachments/assets/33db22c7-4c12-4504-b9fc-dc7ea2cfbac3" />
 
 
 ## Result
